@@ -1,3 +1,7 @@
+Fork de famicom-dumper-client de ClusterM, con una interfaz gráfica en Python.
+Agrega una GUI para facilitar su uso, manteniendo la funcionalidad original.
+
+
 # Client (computer software) for Famicom/NES Dumper/Programmer
 [![Build test](https://github.com/ClusterM/famicom-dumper-client/actions/workflows/build-test.yml/badge.svg)](https://github.com/ClusterM/famicom-dumper-client/actions/workflows/build-test.yml)
 
